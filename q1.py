@@ -52,7 +52,7 @@ def first_stable_character(s):
         None
     """
     # TODO: Implement your solution here
-        char = Counter(s)
+    char = Counter(s)
         i = 0
         n = len(s)
 
